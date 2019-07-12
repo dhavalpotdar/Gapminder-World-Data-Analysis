@@ -1,0 +1,21 @@
+- literacy_rate_adult_total_percent_of_people_ages_15_and_above:
+The percentage of people ages 15 and above who can, with understanding read and write a short, simple statement on their everyday life.
+
+- income_per_person_gdppercapita_ppp_inflation_adjusted:
+Gross Domestic Product per person adjusted for differences in purchasing power (in international dollars, fixed 2011 PPP based on 2011 ICP).
+
+- life_expectancy_years
+The average number of years a new born child would live if current mortality patterns were to stay the same.
+
+
+- aged_15_24_employment_rate_percent
+Percentage of total population, age group 15-24, that has been employed during the given year.
+
+- forest_coverage_percent
+Percentage of total area that has been covered with forest during the given year; excluding the wooded land, which is spanning more than 0.5 hectares, with trees higher than 5 meters and a canopy of 5-10 percent, or trees able to reach these threshold in situ, or with a combined cover of shrubs, bushes and trees above 10 percent.
+
+- hdi_human_development_index
+Human Development Index is an index used to rank countries by level of "human development". It contains three dimensions: health level, educational level and living standard.
+
+- population_density_per_square_km
+Average number of people on each square km of land in the given country.
