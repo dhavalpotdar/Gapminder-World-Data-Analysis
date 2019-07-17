@@ -1,11 +1,12 @@
-# About
+# Gapminder-World-Data-Analysis
 
+## About
 Gapminder has collected a lot of information about how people live their lives in different countries, tracked across the years,
 and on a number of different indicators. The Gapminder Foundation is a non-profit venture registered in Stockholm, Sweden, that promotes sustainable global development and achievement of the United Nations Millennium Development Goals by increased use and understanding of statistics and other information about social, economic and environmental development at local, national and global levels.
 
 This repo looks into how the world has changed across these indicators to answer some interesting questions. The analysis process addresses data quality and tidiness issues and goes through, step by step to produce Explanatory Visualizations that answer the questions raised, as the end result.
 
-# Data 
+## Data 
 
 The data used can be downloaded from Gapminder [here.](http://www.gapminder.org/data/)
 
@@ -25,12 +26,12 @@ Human Development Index is an index used to rank countries by level of "human de
 - **Population Density** <br>
 Average number of people on each square km of land in the given country. 
 
-# Analysis
+## Analysis
 The Analysis Process has been carried out with documentation in two Jupyter Notebooks which can be downloaded from the repo or previewed here:
 - Data Preparation: `cleaning_act.ipynb` | [Preview](https://nbviewer.jupyter.org/github/dhavalpotdar/Gapminder-World-Data-Analysis/blob/master/cleaning_act.ipynb)
 - Exploratory Data Anaysis: `analyzing_act.ipynb` | [Preview](https://nbviewer.jupyter.org/github/dhavalpotdar/Gapminder-World-Data-Analysis/blob/master/analyzing_act.ipynb)
 
-# Conclusion
+## Conclusion
 The following conclusions were made from the analysis:
 - Certain metrics like __Literacy Rate, GDP Per Capita, Life Expectancy Years, Human Development Index and Population Density__ show a consistently __increasing trend__ while others such as __Youth Employment Rate (Age: 15 - 24), Percentage Forest Cover__ have been __decreasing__. Percentage Forest Cover decreased sharply in the early 90's and has been decreasing steadily ever since. <br> The decrease in Youth Employment Rate could be explained by an increasing number of students aged 15 to 20 opting for higher education. However, further investigation is needed to ascertain this.
 
